@@ -1,1 +1,3 @@
-# tbctech
+# Tywyn Baptist Church Tech
+
+- [Equipment](equipment)
