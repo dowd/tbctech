@@ -1,3 +1,3 @@
 # Tywyn Baptist Church Tech
 
-- [Equipment](equipment)
+- [Equipment](equipment.md)
