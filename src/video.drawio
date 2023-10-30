@@ -1,0 +1,119 @@
+<mxfile host="65bd71144e">
+    <diagram id="2eiZwt_nSCLH_XwyktnZ" name="Page-1">
+        <mxGraphModel dx="635" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="29" style="edgeStyle=none;html=1;strokeColor=#2D7600;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;fillColor=#60a917;" edge="1" parent="1" source="23" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;strokeColor=#2D7600;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;fillColor=#60a917;" edge="1" parent="1" source="20" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object label="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Main Projector&lt;/font&gt;" id="2">
+                    <mxCell style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;" vertex="1" parent="1">
+                        <mxGeometry x="480" y="222.5" width="100" height="35" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="3" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Foyer Projector&lt;/font&gt;" style="fontColor=#ffffff;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;" vertex="1" parent="1">
+                    <mxGeometry x="495" y="625" width="85" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;strokeColor=#7F00FF;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;fillColor=#6a00ff;" edge="1" parent="1" source="6" target="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="237" y="596"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;strokeColor=#7F00FF;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="6" target="22">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0.04;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#7F00FF;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="6" target="20">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="40" y="230" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="60" y="500"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.04;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#7F00FF;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="6" target="23">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="185" y="200" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;HDBaseT Splitter&lt;/font&gt;" style="shape=mxgraph.cisco.misc.set_top_box;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="480" width="114" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;fontColor=#000000;strokeColor=#2D7600;endArrow=none;endFill=0;fillColor=#60a917;strokeWidth=4;" edge="1" parent="1" source="8" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.96;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#2D7600;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;fillColor=#60a917;" edge="1" parent="1" source="8" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Projection Computer&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="466" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Second Screen&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="466" width="80" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;Singers Monitor&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="45" width="80" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Drum Monitor" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="45" width="80" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;HDBaseT Box&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="160" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;strokeColor=#2D7600;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;fillColor=#60a917;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="21" target="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;HDBaseT Box&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="630" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;strokeColor=#2D7600;strokeWidth=4;fontColor=#000000;endArrow=none;endFill=0;fillColor=#60a917;" edge="1" parent="1" source="22" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;HDBaseT Box&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="230" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;HDBaseT Box&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="160" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="endArrow=none;html=1;strokeColor=#7F00FF;strokeWidth=4;fontColor=#000000;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="80" as="sourcePoint"/>
+                        <mxPoint x="600" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Ethernet Cable&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="35">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=none;html=1;strokeColor=#2D7600;strokeWidth=4;fontColor=#000000;fillColor=#60a917;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="120" as="sourcePoint"/>
+                        <mxPoint x="600" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;HDMI Cable&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="36">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
