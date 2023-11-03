@@ -1,3 +1,5 @@
+# EQ
+
 There is a good website with frequencies for different instruments at https://blog.sonicbids.com/the-ultimate-eq-cheat-sheet-for-every-common-instrument 
 
 I've tried to sum up the common one we need below.

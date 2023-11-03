@@ -1,3 +1,5 @@
+# Projection
+
 ## Background
 
 We have brought two new projectors, one to replace the main projector in the main hall and one to go in the foyer. Along with these we have brought a [HDBaseT splitter](https://www.orei.com/products/uhd14-exb400k-ultrahd-hdmi-extender-splitter-over-cat-400feet) which will enable us to send the signal over standard ethernet cable. We are also planning on using this opportunity to switch to widescreen.
