@@ -16,8 +16,8 @@ Currently we have:
 ## Issues
 
 We have also encountered a few issues, including:
-- The HDBaseT from our splitter doesn't seem to be compatible with the one in the Projector so we need to but one of the boxes up there
-- If you try to duplicate the main output to three physical outputs of the computer there are some weired issues with PowerPoint
+- The HDBaseT from our splitter doesn't seem to be compatible with the one in the Projector so we need to put one of the boxes up there
+- If you try to duplicate a screen output on the computer to three physical outputs there are some weired issues with PowerPoint (this needed to be done in the NVIDIA control panel and there may be ways to get it to work).
 - Both the drummers monitor and the main band monitor don't have HDMI inputs, but they do have DVI inputs
 
 Because of the issues stated above, and because we haven't had time to put the scaffolding up to get to the main projector, we have had to have a couple of temporary setups. Currently the setup is as below, where we are still utilising VGA and VGA splitters a fair amount.
@@ -26,7 +26,7 @@ Because of the issues stated above, and because we haven't had time to put the s
 
 Dave has ordered some HDMI to DVI convertors and a HDMI splitter which should enable the setup below, where only the output to the main projector is via VGA.
 
-![Intermediate setup](img/video_temp.png)
+![Intermediate setup](img/video_temp2.png)
 
 ## Tasks
 
